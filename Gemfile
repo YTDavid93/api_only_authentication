@@ -49,3 +49,5 @@ group :development, :test do
   gem 'dotenv-rails', '~> 2.1', '>= 2.1.1'
 end
 
+# Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
+gem "rack-cors", "~> 2.0"
