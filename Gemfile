@@ -46,7 +46,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # Use dotenv to manage environment variables in development and test environments
-  gem 'dotenv-rails', '~> 2.1', '>= 2.1.1'
+  gem 'dotenv-rails', '~> 3.2'
 end
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
