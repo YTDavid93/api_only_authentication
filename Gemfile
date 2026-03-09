@@ -50,4 +50,4 @@ group :development, :test do
 end
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
